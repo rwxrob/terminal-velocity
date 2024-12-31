@@ -1,0 +1,26 @@
+== Code simple shell scripts
+
+- You are already coding
+- Why Unix/POSIX shell? /bin/sh
+- Create a lab GitHub repo
+- Work with streams, pipes, and files
+- Create a script file
+- Add lab repo to `PATH`
+- Add `shellcheck`
+- Grok interpreters and compilers
+- Run a script with the interpreter
+- Make script executable
+- Understand types of commands
+- Store data in variables
+- Capture command output as variable
+- Use glob expressions
+- Execute commands based on condition
+- Repeat one or more commands
+- Group commands with subroutines
+
+== Integrate structured data
+
+- Grok JSON
+- Use `jq` command
+- Grok YAML
+- Use `yq` command
