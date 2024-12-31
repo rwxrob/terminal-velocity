@@ -1,6 +1,6 @@
 # Terminal Velocity
 
-_Boost your coding, hacking, and learning with the fastest human-computer interface_
+_🚀 Boost your coding, hacking, and learning with the fastest human-computer interface_
 
 <https://rwxrob.github.io/terminal-velocity>
 
