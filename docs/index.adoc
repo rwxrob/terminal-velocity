@@ -25,6 +25,12 @@
 
 _Boost your coding, hacking, and learning with the fastest human-computer interface_
 
+[cols="^.^1,1,1",options="autowidth"]
+|===
+| https://linktr.ee/rwxrob | link:./rwxrob-terminal-velocity.pdf[Download PDF] | link:./rwxrob-terminal-velocity.epub[Download EPUB]
+|===
+
+
 include::front/copyright.adoc[]
 
 include::front/dedication.adoc[]
